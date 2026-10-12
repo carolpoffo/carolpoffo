@@ -6,9 +6,9 @@
   
 ## Sobre mim
 
-Entusiasta da tecnologia | Desenvolvedora em formação | Apaixonada por programação e inovação
+Entusiasta da tecnologia | Cientista de Dados em formação
 
-Atualmente, estou aprofundando meus conhecimentos em C# no programa Entra21 e cursando Análise e Desenvolvimento de Sistemas. Além disso, estou explorando o mundo da Automação de Processos (RPA), buscando otimizar e transformar processos através da tecnologia.
+Atualmente, trabalho com analise de dados em uma cooperativa de crédito, utilizando PowerBi, Databricks, SQL e Python. Estou me formando em Análise e Desenvolvimento de Sistemas e iniciando um MBA em Data Science & Ia. Além disso, estou explorando o mundo da Automação de Processos (RPA), buscando otimizar e transformar processos através da tecnologia.
 
 ## 🛠&nbsp;Estudando...
 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#"/></code>
