@@ -15,9 +15,9 @@ Versionamento e colaboração
 <p> <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </p>
 🎯 Foco atual:
 
-Análise de dados e criação de dashboards
-MBA em Data Science & IA
-Automação de processos (RPA)
+- Análise de dados e criação de dashboards
+- MBA em Data Science & IA
+- Automação de processos (RPA)
 <div>
 
 Sinta-se à vontade para me seguir no GitHub e conectar no LinkedIn. Estou sempre em busca de novas oportunidades e parcerias para colaborar e aprender juntas!
