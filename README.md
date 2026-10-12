@@ -1,26 +1,24 @@
-## Carolina Poffo
-
-  <a href="https://www.linkedin.com/in/carolinapoffo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:carolpoffo98@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c61616?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/caroltech_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  
-## Sobre mim
+Carolina Poffo
+<p> <a href="https://www.linkedin.com/in/carolinapoffo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:carolpoffo98@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c61616?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a> <a href="https://instagram.com/caroltech_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a> </p>
+Sobre mim
 
 Entusiasta da tecnologia | Cientista de Dados em formação
 
-Atualmente, trabalho com análise de dados em uma cooperativa de crédito, utilizando PowerBi, Databricks, SQL e Python. Estou me formando em Análise e Desenvolvimento de Sistemas e iniciando um MBA em Data Science & Ia. Além disso, estou explorando o mundo da Automação de Processos (RPA), buscando otimizar e transformar processos através da tecnologia.
+Atualmente, trabalho com análise de dados em uma cooperativa de crédito, utilizando Power BI, Databricks, SQL e Python. Estou me formando em Análise e Desenvolvimento de Sistemas e iniciando um MBA em Data Science & IA. Além disso, estou explorando o mundo da Automação de Processos (RPA) e do web scraping, buscando otimizar e transformar processos através da tecnologia.
 
-## 🛠&nbsp;
-<code><img width="50" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#"/></code>
-<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
-<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
-<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
-<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code>
+🛠 Ferramentas e tecnologias
+Análise de dados e BI
+<p> <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"> <img src="https://img.shields.io/badge/-Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"> <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"> <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"> </p>
+Programação e automação
+<p> <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"> <img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"> <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"> </p>
+Versionamento e colaboração
+<p> <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </p>
+🎯 Foco atual
+Análise de dados e criação de dashboards
+MBA em Data Science & IA
+Automação de processos (RPA)
+<div>
 
+Sinta-se à vontade para me seguir no GitHub e conectar no LinkedIn. Estou sempre em busca de novas oportunidades e parcerias para colaborar e aprender juntas!
 
-##
- 
-<div> 
-
-Sinta-se à vontade para me seguir no GitHub e conectar no Linkedin. Estou sempre em busca de novas oportunidades e parcerias para colaborar e aprender juntas!
 </div>
