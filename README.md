@@ -4,7 +4,7 @@ Sobre mim
 
 Entusiasta da tecnologia | Cientista de Dados em formação
 
-Atualmente, trabalho com análise de dados em uma cooperativa de crédito, utilizando Power BI, Databricks, SQL e Python. Estou me formando em Análise e Desenvolvimento de Sistemas e iniciando um MBA em Data Science & IA. Além disso, estou explorando o mundo da Automação de Processos (RPA) e do web scraping, buscando otimizar e transformar processos através da tecnologia.
+Atualmente, trabalho com análise de dados em uma cooperativa de crédito, utilizando Power BI, Databricks, SQL e Python. Estou me formando em Análise e Desenvolvimento de Sistemas e iniciando um MBA em Data Science & IA. Além disso, estou explorando o mundo da Automação de Processos (RPA), buscando otimizar e transformar processos através da tecnologia.
 
 🛠 Ferramentas e tecnologias
 Análise de dados e BI
